@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Home"
+title: "KuzminLab - Home"
 layout: homelay
-excerpt: "NetNeuroLab at MNI."
+excerpt: "KuzminLab at CASB."
 sitemap: false
 permalink: /
 ---
