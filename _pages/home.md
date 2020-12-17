@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Montreal Neurological Institute](https://www.mcgill.ca/neuro). We investigate how the links and interactions among brain areas support cognitive operations, complex behavior and global dynamics.
+We are a dynamic research group at the [Centre for Applied Synthetic Biology, Concoria University](https://www.concordia.ca/research/casb/about.html). We investigate how phenotypes and disease states emerge from the interplay of genetic determinants in yeast and human cells.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
