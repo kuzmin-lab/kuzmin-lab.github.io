@@ -58,7 +58,9 @@ We are a dynamic research group at the [Centre for Applied Synthetic Biology, Co
 
 Using a combination of systematic genetic screening (trigenic interaction screens, high-content screens, overexpression screens and CRISPR screens), genome sequencing (bulk and single cell DNA and RNA sequencing) and genome engineering approaches we aim to enhance our understanding of the genotype-to-phenotype relationship and genome evolution. We pursue several research themes focusing on mapping complex genetic interaction networks, from genetic network rewiring between distantly related yeast species, conditional functional redundancy and divergence of duplicated genes and complex genetic interaction network of large copy number variants in cancer (see [Research](research)).
 
+
 We are located at the Centre for Applied Synthetic Biology at Concordia University. We exchange ideas and work with our colleagues in the [Department of Biology](https://www.concordia.ca/artsci/biology/about.html). We are also affiliated with the [Goodman Cancer Research Centre, McGill University](https://www.mcgill.ca/gcrc/).
+
 
 We are grateful for funding from the Cancer Research Society ([CRS](https://www.societederecherchesurlecancer.ca/en/about-us/about-us)).
 
