@@ -65,8 +65,5 @@ We are located at the [Centre for Applied Synthetic Biology, Concordia Universit
 We are grateful for funding from the Cancer Research Society ([CRS](https://www.societederecherchesurlecancer.ca/en/about-us/about-us)).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_frqs.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nserc.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cihr.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_crc.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px">
 </figure>
