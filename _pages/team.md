@@ -1,14 +1,14 @@
 ---
-title: "NetNeuroLab - Team"
+title: "Kuzmin Lab - Team"
 layout: gridlay
-excerpt: "NetNeuroLab: Team members"
+excerpt: "Kuzmin Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
-The lab is a diverse group of people interested in connectomics and neuroimaging data science. We are looking to recruit more graduate students and postdocs with backgrounds in engineering, statistics, physics and life sciences.
+The lab is a diverse group of people interested in functional genomics and synthetic biology. We are looking to recruit graduate students and postdocs with backgrounds in genetics, molecular biology, genomics, bioengineering and bioinformatics. Undergraduate thesis and summer students are welcome to apply!
 
 
 Jump to [team](#team) or [alumni](#alumni).
