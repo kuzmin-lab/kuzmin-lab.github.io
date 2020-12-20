@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Research"
+title: "KuzminLab - Research"
 layout: textlay
-excerpt: "NetNeuroLab - Research"
+excerpt: "KuzminLab - Research"
 sitemap: false
 permalink: /research/
 ---
