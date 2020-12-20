@@ -1,28 +1,28 @@
-- title: "Evaluating analytical and biological impliations of observed instabilities in diffusion MRI pipelines"
+- title: "Inferring Copy Number from Triple Negative Breast Cancer Patient Derived Xenograft scRNAseq data using scCNAutils"
   image: 
   description: 
-  authors: Kiar G, de Oliveira Castro P, Petit E, Rokem A, Varoquaux G, Misic B, Glatard T, Evans AC
+  authors: Kuzmin, E., Monlong, J., Martinez, C., Kuasne, H., Kleinman, C., Ragoussis, J., Bourque, G., Park, M.
   link:
-    url: https://doi.org/10.1101/2020.10.15.341495
-    display: bioRxiv (2020)
+    url: 
+    display: Methods in Molecular Biology (in press)
   highlight: 0
   
-- title: "Early or late exposure to maternal immune activation alters neurodevelopmental trajectories in mice: an integrated neuroimaging, behavioural, and transcriptional study"
+- title: "τ-SGA: synthetic genetic array analysis for systematically screening and quantifying trigenic interactions in yeast"
   image: 
   description: 
-  authors: Guma E, Bordignon P, Devenyi GA, Gallino D, Anastassiadis C, Cvetkovska V, Barry A, Snook E, Germann J, Greenwood CT, Misic B, Bagot RC, Chakravarty MM
+  authors: Kuzmin, E., Rahman, M., VanderSluis, B., Costanzo, M., Myers, C.L., Andrews, B.J., Boone, C.
   link:
-    url: https://doi.org/10.1101/2020.12.03.406454
-    display: bioRxiv (2020)
+    url: 
+    display: Nature Protocols (in press)
   highlight: 0
 
-- title: "Asymmetric influence measure for high dimensional regression"
+- title: "Trigenic Synthetic Genetic Array (τ-SGA) Technique For Complex Interaction Analysis"
   image: 
   description: 
-  authors: Barry A, Bhagwat N, Misic B, Poline JB, Greenwood CT
+  authors: Kuzmin, E., Andrews, B.J., Boone, C.
   link:
-    url: https://doi.org/10.1080/03610926.2020.1841793
-    display: Commun Stat (in press)
+    url: 
+    display: Methods in Molecular Biology (in press)
   highlight: 0
   
 - title: "A prodromal brain‐clinical pattern of cognition in synucleinopathies"
