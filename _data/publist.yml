@@ -48,62 +48,62 @@
   description: 
   authors: Lee, W., Kalashnikov, N., Mock, S., Halaoui, R., Kuzmin, E., Putnam A.J., Takayama, S., Park, M., McCaffrey, L., Zhao, R., Leask, R. L., Moraes, C.
   link:
-    url: https://doi.org/10.1101/2020.08.06.237941
-    display: Net Neurosci (in press)
+    url: 
+    display: Nature Communications (2019)
   highlight: 0
   
-- title: "Propofol-induced alterations in brain connectivity reflect parvalbumin interneuron distribution in the human cortex"
+- title: "Systematic Analysis of Complex Genetic Interactions"
   image: 
   description: 
-  authors: Craig MM, Misic B, Pappas I, Adapa R, Menon VK, Stamatakis EA
+  authors: Kuzmin, E.*, VanderSluis, B.*, Wang, W., Tan, G., Deshpande, R., Chen, Y., Usaj, M., Balint, A., Mattiazzi Usaj, M., van Leeuwen, J., Koch, E.N., Pons, C., Dagilis, A.J., Pryszlak, M., Wang, J.Z.Y., Hanchard, J., Riggi, M., Xu, K., Heydari, H., San Luis, B. Shuteriqi, E., Zhu, H., Van Dyk, N., Sharifpoor, S., Costanzo, M., Loewith, R., Caudy, A.A., Bolnick, D., Brown, G.W., Andrews, B.J., Boone, C., Myers, C.L.
   link:
     url: 
-    display: Br J Anaesth (in press)
+    display: Science (2018) 
   highlight: 0
 
-- title: "Microcircuit underpinnings and macroscale functional implications of temporal lobe connectivity gradients"
+- title: "Kibra (WWC1) is a metastatic suppressor gene affected by chromosome 5q loss in human breast cancers"
   image: 
   description: 
-  authors: Vos de Wael R, Royer J, Tavakol S, Wang Y, Paquola C, Benkarim O, Eichert N, Lariviere S, Misic B, Smallwood J, Valk S, Bernhardt BC
+  authors: Knight, J.F., Sung, V.Y.C., Kuzmin, E., Couzens, A.L., de Verteuil, D.A., Johnson, R.M., Gruosso, T., Lee, W., Saleh, S.M., Zuo, D., Guiot, M.C., Davis, R.R., Zhao, H., Gregg, J.P., Moraes, C., Gingras, A.C., Park, M. 
   link:
-    url: https://doi.org/10.1101/2020.11.26.400382
-    display: bioRxiv (2020)
+    url: 
+    display: Cell Reports (2018) 
   highlight: 0
 
-- title: "Learning function from structure in neuromorphic networks"
+- title: "Exploring genetic suppression interactions on a global scale"
   image: 
   description: 
-  authors: Suarez LE, Richards BA, Lajoie G, Misic B
+  authors: van Leeuwen, J.*, Pons, C.*, Mellor, J.C., Yamaguchi, T.N., Friesen, H., Koschwanez, J., Mattiazzi Ušaj, M., Pechlaner, M., Takar, M., Ušaj, M., VanderSluis, B., Andrusiak, K., Bansal, P., Baryshnikova, A., Boone, C.E., Cao, J., Cote, A., Gebbia, M., Horecka, G., Horecka, I., Kuzmin, E., Legro, N., Liang, W., van Lieshout, N., McNee, M., San Luis, B.J., Shaeri, F., Shuteriqi, E., Sun, S., Yang, L., Youn, J.Y., Yuen, M., Costanzo, M., Gingras, A.C., Aloy, P., Oostenbrink, C., Murray, A., Graham, T.R., Myers, C.L.,  Andrews, B.J., Roth, F.P., Boone, C. 
   link:
-    url: https://doi.org/10.1101/2020.11.10.350876
-    display: bioRxiv (2020)
+    url: 
+    display: Science (2016) 
   highlight: 0
   
-- title: "Network communication in the brain"
+- title: "A global genetic interaction network maps a wiring diagram of cellular function"
   image: 
   description: 
-  authors: Graham D, Avena-Koenigsberger A, Misic B
+  authors: Costanzo, M.*, VanderSluis, B.*, Koch, E.N.*, Baryshnikova, A.*, Pons, C.*, Tan, G.*, Wang, W., Usaj, M., Hanchard, J., Lee, S.D., Pelechano, V., Styles, E.B., Billmann, M., van Leeuwen, J., van Dyk, N., Lin, Z., Kuzmin, E., Nelson, J., Piotrowski, J.S., Srikumar, T., Bahr, S., Chen, Y., Deshpande, R., Kurat, C.F., Li, S.C., Li, Z., Mattiazzi Usaj, M., Okada, H., Pascoe, N., San Luis, B.J., Sharifpoor, S., Shuteriqi, E., Simpkins, S.W., Snider, J., Garadi Suresh, H., Tan, Y., Zhu, H., Malod-Dognin, M., Janjic, V., Przulj, N., Troyanskaya, O.G., Stagljar, I., Xia, T., Ohya, Y., Gingras, A.C., Raught, B., Boutros, M., Steinmetz, L.M., Moore, C.L., Rosebrock, A.P., Caudy, A.A., Myers, C.L., Andrews, B., Boone, C.
   link:
-    url: https://doi.org/10.1162/netn_e_00167
-    display: Net Neurosci (2020)
+    url: 
+    display: Science (2016) 
   highlight: 0
 
-- title: "Multiscale communication in cortico-cortical networks"
+- title: "Synthetic Genetic Arrays: Automation of Yeast Genetics"
   image: 
   description: 
-  authors: Bazinet V, Vos de Wael R, Hagmann P, Bernhardt BC, Misic B
+  authors: Kuzmin, E., Costanzo, M., Boone, C. 
   link:
-    url: https://doi.org/10.1101/2020.10.02.323030
-    display: bioRxiv (2020)
+    url: 
+    display: Cold Spring Harbor Protocols (2016)
   highlight: 0
   
-- title: "Comparing spatially-constrained null models for parcellated brain maps"
+- title: "Synthetic Genetic Array Analysis"
   image: 
   description: 
-  authors: Markello RD, Misic B
+  authors: Kuzmin, E., Costanzo, M., Boone, C. 
   link:
-    url: https://doi.org/10.1101/2020.08.13.249797
-    display: bioRxiv (2020)
+    url: 
+    display: Cold Spring Harbor Protocols (2016)
   highlight: 0
 
 - title: "Signal diffusion along connectome gradients and inter-hub routing differentially contribute to dynamic human brain function"
