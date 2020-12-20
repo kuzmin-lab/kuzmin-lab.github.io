@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=toi8Bz8AAAAJ&hl=en) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=elena+kuzmin) or [Research Gate](https://www.researchgate.net/profile/Elena_Kuzmin).
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=toi8Bz8AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=elena+kuzmin) or [Research Gate](https://www.researchgate.net/profile/Elena_Kuzmin).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
