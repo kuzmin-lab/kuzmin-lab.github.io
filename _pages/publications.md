@@ -1,7 +1,7 @@
 ---
-title: "NetNeuroLab - Publications"
+title: "Kuzmin Lab - Publications"
 layout: gridlay
-excerpt: "NetNeuroLab -- Publications."
+excerpt: "Kuzmin Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=Jv_ICEoAAAAJ&hl=en) or [PubMed](https://www.ncbi.nlm.nih.gov/pubmed?term=Misic%20B%5BAuthor%5D). Code is available on our [GitHub repo](https://github.com/netneurolab).
+For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=toi8Bz8AAAAJ&hl=en) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=elena+kuzmin) or [Research Gate](https://www.researchgate.net/profile/Elena_Kuzmin).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
