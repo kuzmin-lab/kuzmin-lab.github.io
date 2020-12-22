@@ -25,7 +25,7 @@ We are a dynamic research group at the [Centre for Applied Synthetic Biology, Co
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/KuzminSlider1-01.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_hierarchy.png" alt="Slide 2" />
