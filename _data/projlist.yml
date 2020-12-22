@@ -7,13 +7,13 @@
   image: 
   description: "An outstanding question in the field, is the extent of genetic interaction network conservation. We will use trigenic synthetic genetic array methodology in yeast to interrogate complex genetic interaction networks. This approach will enable us to determine whether genetic network rewiring involving complex genetic interactions can expand the level of conservation of genetic interactions between evolutionary distant organisms."
   highlight: 1
-
-- title: "Genetic Vulnerabilities of Large Copy Number Variants in Cancer"
-  image: 
-  description: 
-  highlight: 1
   
 - title: "Tumor Suppressor Network of Large Copy Number Variants in Cancer"
   image: 
   description: "We previously showed that large chromosomal deletions are maintained in triple negative breast cancer due to evolutionary early genetic network rewiring rendering multiple genes within this region to be dosage sensitive. It remains to be uncovered what is the extent of genetic interactions involving tumor suppressors within and between large chromosomal deletions. We will use a combination of pooled and arrayed CRISPR screens with a cell proliferation and gene expression readout to address this question."
+  highlight: 1
+  
+- title: "Genetic Vulnerabilities of Large Copy Number Variants in Cancer"
+  image: 
+  description: "Large chromosomal alterations are very common in cancer yet an understanding of their therapeutic potential is lacking. We will investigate whether large chromosomal deletions represent genetic vulnerabilities, which are therapeutically relevant in cancer. To accomplish this goal we will use pooled and arrayed CRISPR screens in preclinical models of cancer."
   highlight: 1
