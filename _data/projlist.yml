@@ -9,7 +9,7 @@
   highlight: 1
   
 - title: "Tumor Suppressor Network of Large Copy Number Variants in Cancer"
-  image: 
+  image: respic_CNA.png
   description: "We previously showed that large chromosomal deletions are maintained in triple negative breast cancer due to evolutionary early genetic network rewiring rendering multiple genes within this region to be dosage sensitive. It remains to be uncovered what is the extent of genetic interactions involving tumor suppressors within and between large chromosomal deletions. We will use a combination of pooled and arrayed CRISPR screens with a cell proliferation and gene expression readout to address this question."
   highlight: 1
   
