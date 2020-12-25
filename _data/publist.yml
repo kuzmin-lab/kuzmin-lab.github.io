@@ -1,11 +1,11 @@
 - title: "Inferring Copy Number from Triple Negative Breast Cancer Patient Derived Xenograft scRNAseq data using scCNAutils"
-  image: 
+  image: pubpic_scCNA.png
   description: 
   authors: Kuzmin, E., Monlong, J., Martinez, C., Kuasne, H., Kleinman, C., Ragoussis, J., Bourque, G., Park, M.
   link:
     url: 
     display: Methods in Molecular Biology (in press)
-  highlight: 0
+  highlight: 1
   
 - title: "τ-SGA: synthetic genetic array analysis for systematically screening and quantifying trigenic interactions in yeast"
   image: pubpic_natprot.png
