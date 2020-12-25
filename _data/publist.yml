@@ -26,13 +26,13 @@
   highlight: 0
   
 - title: "Exploring whole-genome duplicate gene retention with complex genetic interaction analysis"
-  image: 
+  image: pubpic_paralogs.png
   description: 
   authors: Kuzmin, E.*, VanderSluis, B.*, Nguyen Ba, A.N., Wang, W., Koch, N.E., Usaj, M., Khmelinskii, A., Mattiazzi Usaj, M., van Leeuwen, J., Kraus, O., Tresenrider, A., Pryszlak, M., Hu, M.C., Varriano, B., Costanzo, M., Knop, M., Moses, A., Myers, C.L., Andrews, B.J., Boone, C.
   link:
     url: https://science.sciencemag.org/content/368/6498/eaaz5667?rss=1
     display: Science (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Global Genetic Networks and the Genotype to Phenotype Relationship"
   image: 
