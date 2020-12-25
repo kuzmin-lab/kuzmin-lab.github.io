@@ -14,7 +14,7 @@
   link:
     url: 
     display: Nature Protocols (in press)
-  highlight: 0
+  highlight: 1
 
 - title: "Trigenic Synthetic Genetic Array (τ-SGA) Technique For Complex Interaction Analysis"
   image: 
@@ -59,7 +59,7 @@
   link:
     url: https://science.sciencemag.org/content/360/6386/eaao1729.long
     display: Science (2018) 
-  highlight: 0
+  highlight: 1
 
 - title: "Kibra (WWC1) is a metastatic suppressor gene affected by chromosome 5q loss in human breast cancers"
   image: 
