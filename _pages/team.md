@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
-The lab is a diverse group of people interested in functional genomics and synthetic biology. We are looking to recruit graduate students and postdocs with backgrounds in genetics, molecular biology, genomics, bioengineering and bioinformatics. We are also hiring a lab manager / research associate. Undergraduate thesis and summer students are welcome to apply!
+The lab is looking for a diverse group of people interested in functional genomics and synthetic biology. We are looking to recruit graduate students and postdocs with backgrounds in genetics, molecular biology, genomics, bioengineering and bioinformatics. We are also hiring a lab manager / research associate. Undergraduate thesis and summer students are welcome to apply!
 
 
 Jump to [team](#team) or [alumni](#alumni).
