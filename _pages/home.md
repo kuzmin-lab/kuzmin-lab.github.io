@@ -76,3 +76,20 @@ We are grateful for funding from the Cancer Research Society ([CRS](https://www.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px">
 </figure>
+
+<!-- Default Statcounter code for Kuzmin Lab
+https://kuzmin-lab.github.io/ -->
+<script type="text/javascript">
+var sc_project=12455544; 
+var sc_invisible=1; 
+var sc_security="39ae68da"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12455544/0/39ae68da/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
