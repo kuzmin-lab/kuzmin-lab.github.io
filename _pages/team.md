@@ -12,7 +12,7 @@ The lab is looking for a diverse group of people interested in functional genomi
 
 Students are encouraged to apply through Concordia University's [Department of Biology](https://www.concordia.ca/artsci/biology.html) or [SynBio Apps Program](https://www.concordia.ca/sgs/programs/interdisciplinary/synthetic-biology-applications.html) as well as McGill University's [Goodman Cancer Research Centre](https://www.mcgill.ca/gcrc/). Postdoctoral fellows interested in working on a joint project with the National Research Council should apply [here](https://www.concordia.ca/research/casb/pdf-position-on-new-nrc-project.html).
 
-Interested applicants should send Dr. Kuzmin their CV and a brief description of their research interests.
+Interested applicants should send Dr. Kuzmin their transcript, CV and a brief description of their research interests.
 
 
 Jump to [team](#team) or [alumni](#alumni).
