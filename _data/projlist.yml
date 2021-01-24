@@ -5,7 +5,7 @@
   
 - title: "Genetic Interaction Network Conservation"
   image: respic_rewiring.png
-  description: "An outstanding question in the field, is the extent of genetic interaction network conservation. We will use trigenic synthetic genetic array methodology in yeast to interrogate complex genetic interaction network rewiring between Saccharomyces cerevisiae and Schizosaccharomyces pombe, which have diverged about 1 billion years ago. This approach will enable us to determine whether genetic network rewiring involving complex genetic interactions can expand the level of conservation of genetic interactions between evolutionary distant organisms."
+  description: "An outstanding question in the field, is the extent of genetic interaction network conservation. We will use trigenic synthetic genetic array methodology in yeast to interrogate complex genetic interaction network rewiring between distantly related yeast species and integrate the findings with other species. This approach will enable us to determine whether genetic network rewiring involving complex genetic interactions can expand the level of conservation of genetic interactions between evolutionary distant organisms."
   highlight: 1
   
 - title: "Tumor Suppressor Network of Large Copy Number Variants in Cancer"
