@@ -9,14 +9,14 @@
   education4:
   education5:
 
-- name: Rohan Dandage
+  name: Rohan Dandage
   photo: person.jpg
   info: Postdoctoral fellow
   email: 
   number_educ: 0
   education1: 
  
-- name: Joseph Del Corpo 
+  name: Joseph Del Corpo 
   photo: person.jpg
   info: Graduate student
   email: 
@@ -30,7 +30,7 @@
   number_educ: 0
   education1: 
   
-- name: Aleem Aamir
+  name: Aleem Aamir
   photo: person.jpg
   info: Undergraduate student
   email: 
