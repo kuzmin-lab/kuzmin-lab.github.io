@@ -21,13 +21,13 @@ Jump to [team](#team) or [alumni](#alumni).
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-8 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br><{{ member.email }}></i>
@@ -61,25 +61,6 @@ Jump to [team](#team) or [alumni](#alumni).
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  <li> {{ member.education6 }} </li>
-  {% endif %}
-    
-  {% if member.number_educ == 7 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  <li> {{ member.education6 }} </li>
-  <li> {{ member.education7 }} </li>
   {% endif %}
     
   </ul>
