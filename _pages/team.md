@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
-The lab is looking for a diverse group of people interested in functional genomics and synthetic biology. We are looking to recruit graduate students and postdocs with backgrounds in genetics, molecular biology, genomics, bioengineering and bioinformatics. We are also hiring a [lab manager / research assistant] (https://www.concordia.ca/research/casb.html). Undergraduate thesis and summer students are welcome to apply!
+The lab is looking for a diverse group of people interested in functional genomics and synthetic biology. We are looking to recruit graduate students and postdocs with backgrounds in genetics, molecular biology, genomics, bioengineering and bioinformatics. We are also hiring a [Lab Manager / Research Assistant](https://www.concordia.ca/research/casb.html). Undergraduate thesis and summer students are welcome to apply!
 
 Students are encouraged to apply through Concordia University's [Department of Biology](https://www.concordia.ca/artsci/biology.html) or [SynBio Apps Program](https://www.concordia.ca/sgs/programs/interdisciplinary/synthetic-biology-applications.html) as well as McGill University's [Rosalind & Morris Goodman Cancer Institute](https://www.mcgill.ca/gci/) and [Department of Human Genetics](https://www.mcgill.ca/humangenetics/). 
 
