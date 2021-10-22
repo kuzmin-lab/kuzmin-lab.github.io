@@ -75,13 +75,10 @@ We are grateful for funding from the Cancer Research Society ([CRS](https://www.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px">
-</figure>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CIHR.png" style="width: 140px">
-</figure>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRC.png" style="width: 140px">
-</figure>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFI.png" style="width: 140px">
 </figure>
