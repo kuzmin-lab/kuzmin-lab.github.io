@@ -74,13 +74,7 @@ We are located at the [Centre for Applied Synthetic Biology, Concordia Universit
 We are grateful for funding from the Cancer Research Society ([CRS](https://www.societederecherchesurlecancer.ca/en/about-us/about-us)), Canada Research Chair Program (CIHR) ([CRC](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx)) and Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px">
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CIHR.png" style="width: 140px">
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRC.png" style="width: 140px">
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFI.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CIHR.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRC.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFI.png" style="width: 140px">
 </figure>
 
 <!-- Default Statcounter code for Kuzmin Lab
