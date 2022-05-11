@@ -71,10 +71,10 @@ Using a combination of systematic genetic screening (trigenic interaction screen
 We are located at the [Centre for Applied Synthetic Biology, Concordia University](https://www.concordia.ca/research/casb.html). We exchange ideas and work with our colleagues in the [Department of Biology](https://www.concordia.ca/artsci/biology/about.html) and use the state-of-the-art facilities of the [Genome Foundry](https://www.concordia.ca/research/genome-foundry.html), member of the [Global Biofoundries Alliance](https://biofoundries.org/). We are also affiliated with the [Rosalind & Morris Goodman Cancer Institute, McGill University](https://www.mcgill.ca/gci/) and [Department of Human Genetics, McGill University](https://www.mcgill.ca/humangenetics/).
 
 
-We are grateful for funding from the Cancer Research Society ([CRS](https://www.societederecherchesurlecancer.ca/en/about-us/about-us)), Canada Research Chair Program (CIHR) ([CRC](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx)) and Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)).
+We are grateful for funding from the Cancer Research Society ([CRS](https://www.societederecherchesurlecancer.ca/en/about-us/about-us)), Canada Research Chair Program (CIHR) ([CRC](https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx)), Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), Natural Sciences and Engineering Research Council of Canada ([NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CIHR.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRC.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFI.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRS.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CIHR.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CRC.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CFI.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Forbeck.png" style="width: 140px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSERC.png" style="width: 140px">
 </figure>
 
 <!-- Default Statcounter code for Kuzmin Lab
