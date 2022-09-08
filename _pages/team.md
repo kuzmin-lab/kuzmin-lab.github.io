@@ -94,7 +94,7 @@ Jump to [team](#team) or [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4> <i>{{ member.info }} <br> 
+  <h4>{{ member.name }}, {{ member.info }}</h4> 
   <ul style="overflow: hidden">
 
   </ul>
