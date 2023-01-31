@@ -18,8 +18,15 @@
 
 - name: Michelle Vandeloo 
   photo: Michelle.jpg
-  info: Lab Manager/Research Assistant
+  info: Lab Manager/Research assistant
   email: michelle.vandeloo@mail.concordia.ca
+  number_educ: 0
+  education1: 
+
+- name: Michael Schwartz
+  photo: Michael.jpg
+  info: Research assistant
+  email: michael.schwartz4@mail.mcgill.ca
   number_educ: 0
   education1: 
   
@@ -43,13 +50,6 @@
   email: lynn.karam@mail.concordia.ca
   number_educ: 0
   education1:
-  
-- name: Michael Schwartz
-  photo: Michael.jpg
-  info: Graduate student
-  email: michael.schwartz4@mail.mcgill.ca
-  number_educ: 0
-  education1: 
 
 - name: Vanessa Pereira
   photo: Vanessa.jpg
