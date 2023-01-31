@@ -15,7 +15,14 @@
   email: rohan.dandage@concordia.ca
   number_educ: 0
   education1: 
- 
+
+- name: Michelle Vandloo 
+  photo: Michelle.jpg
+  info: Lab Manager/Research Assistant
+  email: michelle.vandeloo@mail.concordia.ca
+  number_educ: 0
+  education1: 
+  
 - name: Joseph Del Corpo 
   photo: Joseph.jpg
   info: Graduate student
@@ -44,6 +51,13 @@
   number_educ: 0
   education1: 
 
+- name: Vanessa Pereira
+  photo: Vanessa.jpg
+  info: Undergraduate student
+  email: vanessa.pereira@mail.concordia.ca
+  number_educ: 0
+  education1: 
+
 - name: Keyan Dadelahi
   photo: Keyan.jpg
   info: Undergraduate student
@@ -55,12 +69,5 @@
   photo: Belen.jpg
   info: Undergraduate student
   email: belen.hernandez@mail.concordia.ca
-  number_educ: 0
-  education1: 
-  
-- name: Vanessa Pereira
-  photo: Vanessa.jpg
-  info: Undergraduate student
-  email: vanessa.pereira@mail.concordia.ca
   number_educ: 0
   education1: 
