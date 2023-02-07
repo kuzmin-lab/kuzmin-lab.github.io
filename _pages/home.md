@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Centre for Applied Synthetic Biology](https://www.concordia.ca/research/casb/about.html) and the [Centre for Structural and Functional Genomics](https://www.concordia.ca/research/genomics.html). We investigate how phenotypes and disease states emerge from the interplay of genetic determinants in yeast and human cells.
+We are a dynamic research group at the [Centre for Applied Synthetic Biology](https://www.concordia.ca/research/casb/about.html) and the [Centre for Structural and Functional Genomics](https://www.concordia.ca/research/genomics.html) at [Concordia University](https://www.concordia.ca/). We investigate how phenotypes and disease states emerge from the interplay of genetic determinants in yeast and human cells.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
