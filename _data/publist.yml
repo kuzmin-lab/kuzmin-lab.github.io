@@ -1,11 +1,11 @@
 - title: "Evolution of chromosome arm aberrations in breast cancer through genetic network rewiring" 
-  image: 
+  image: Overview_tw.png
   description: 
   authors: Kuzmin, E.*, Baker, T., Lesluyes, T., Monlong, J., Abe, K.T., Coelho, P.P., Schwartz, M., Zou, D., Morin, G., Pacis, Alain., Yang, Y., Martinez, C., Barber, J., Kuasne, H., Li, R., Bourgey, M., Fortier, A.-M., Davison, P.G., Omeroglu, A., Guiot, M.-C., Morris, Q., Kleinman, C.L., Huang, S., Gingras, A.-C., Ragoussis, J., Bourque, G., van Loo, P., Park, M.*  
   link:
     url: https://doi.org/10.1101/2023.06.10.544434
     display: bioRxiv (2023)
-  highlight: 
+  highlight: 1
   
 - title: "Correspondence between gene expression and neurotransmitter receptor and transporter density in the human brain"
   image: 
@@ -41,7 +41,7 @@
   link:
     url: https://link.springer.com/protocol/10.1007%2F978-1-0716-1740-3_16
     display: Methods in Molecular Biology (2021)
-  highlight: 1
+  highlight:
   
 - title: "τ-SGA: synthetic genetic array analysis for systematically screening and quantifying trigenic interactions in yeast"
   image: pubpic_natprot.png
