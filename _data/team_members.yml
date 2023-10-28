@@ -22,13 +22,6 @@
   email: michelle.vandeloo@concordia.ca
   number_educ: 0
   education1: 
-
-- name: Michael Schwartz
-  photo: Michael.jpg
-  info: Research Assistant
-  email: michael.schwartz4@mail.mcgill.ca
-  number_educ: 0
-  education1: 
   
 - name: Joseph Del Corpo 
   photo: Joseph.jpg
@@ -37,6 +30,13 @@
   number_educ: 0
   education1: 
 
+- name: Anastasia Gherghi
+  photo: Anastasia.jpg
+  info: Graduate Student
+  email: anastasia.gherghi@mail.concordia.ca
+  number_educ: 0
+  education1: 
+  
 - name: Brittany Greco
   photo: Brittany.jpg
   info: Graduate Student
@@ -58,16 +58,23 @@
   number_educ: 0
   education1: 
 
-- name: Keyan Dadelahi
-  photo: Keyan.jpg
+- name: Mayerly Castrillon
+  photo: Mayerly.jpg
   info: Undergraduate Student
-  email: keyansarab.dadelahi@mail.concordia.ca
+  email: c_mayerl@live.concordia.ca
   number_educ: 0
   education1:
   
-- name: Belen Hernandez
-  photo: Belen.jpg
+- name: Soyeon Cho
+  photo: Soyeon.jpg
   info: Undergraduate Student
-  email: belen.hernandez@mail.concordia.ca
+  email: soyeon.cho@mail.concordia.ca
+  number_educ: 0
+  education1: 
+
+- name: Kevin Slezak
+  photo: Kevin.jpg
+  info: Undergraduate Student
+  email: kevin.slezak@mail.concordia.ca
   number_educ: 0
   education1: 
