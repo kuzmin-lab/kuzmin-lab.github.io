@@ -1,11 +1,11 @@
 - title: "Single-cell imaging of protein dynamics of paralogs reveals mechanisms of gene retention" 
-  image: 
+  image: Overview_par.png
   description: 
   authors: Dandage, R., Papkov, M., Greco, B.M., Fishman, D., Friesen, H., Wang, K., Styles, E., Kraus, O., Grys, B., Boone, C., Andrews, B.J., Parts,L., Kuzmin, E.*  
   link:
     url: https://doi.org/10.1101/2023.11.23.568466
     display: bioRxiv (2023)
-  highlight: 
+  highlight: 1
 
 - title: "Evolution of chromosome arm aberrations in breast cancer through genetic network rewiring" 
   image: Overview_tw.png
@@ -59,7 +59,7 @@
   link:
     url: https://www.nature.com/articles/s41596-020-00456-3
     display: Nature Protocols (2021)
-  highlight: 1
+  highlight:
 
 - title: "Trigenic Synthetic Genetic Array (τ-SGA) Technique For Complex Interaction Analysis"
   image: 
