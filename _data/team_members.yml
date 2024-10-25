@@ -10,16 +10,23 @@
   education5:
 
 - name: Thais Campos de Oliveira
-  photo: person.jpg
+  photo: Thais.jpg
   info: Postdoctoral Fellow
   email: thais.camposdeoliveira@concordia.ca
   number_educ: 0
   education1: 
 
 - name: Keyan Dadelahi 
-  photo: Keyan.jpg
+  photo: Keyan2.jpg
   info: Lab Manager/Research Assistant
   email: keyan.dadelahi@concordia.ca
+  number_educ: 0
+  education1: 
+
+- name: Pegah Kargar 
+  photo: Pegah.jpg
+  info: Research Assistant
+  email: pegah.kargar@concordia.ca
   number_educ: 0
   education1: 
   
@@ -57,24 +64,45 @@
   email: vanessa.pereira@mail.concordia.ca
   number_educ: 0
   education1: 
-
+  
+- name: Eric Blouin
+  photo: Eric.jpg
+  info: Graduate Diploma in Biotechnology and Genomics Student
+  email: eric.blouin@mail.concordia.ca
+  number_educ: 0
+  education1: 
+  
 - name: Mayerly Castrillon
   photo: Mayerly.jpg
   info: Undergraduate Student
   email: c_mayerl@live.concordia.ca
   number_educ: 0
   education1:
-  
-- name: Soyeon Cho
-  photo: Soyeon.jpg
+
+- name: Sara Daneshi
+  photo: Sara.jpg
   info: Undergraduate Student
-  email: soyeon.cho@mail.concordia.ca
+  email: sara.daneshi@mail.concordia.ca
+  number_educ: 0
+  education1:
+  
+- name: Queena Ng
+  photo: Queena.jpg
+  info: Undergraduate Student
+  email: queena.ng@mail.concordia.ca
   number_educ: 0
   education1: 
 
-- name: Kevin Slezak
-  photo: Kevin.jpg
+- name: Alessandra Rbeiz
+  photo: Alessandra.jpg
   info: Undergraduate Student
-  email: kevin.slezak@mail.concordia.ca
+  email: alessandra.rbeiz@mail.concordia.ca
+  number_educ: 0
+  education1: 
+
+- name: Rachel Wong
+  photo: Rachel.jpg
+  info: Undergraduate Student
+  email: rachel.wong@concordia.ca
   number_educ: 0
   education1: 
