@@ -7,14 +7,7 @@
   education2:
   education3:
   education4:
-  education5:
-
-- name: Thais Campos de Oliveira
-  photo: Thais.jpg
-  info: Postdoctoral Fellow
-  email: thais.camposdeoliveira@concordia.ca
-  number_educ: 0
-  education1: 
+  education5: 
 
 - name: Keyan Dadelahi 
   photo: Keyan2.jpg
@@ -85,13 +78,6 @@
   email: sara.daneshi@mail.concordia.ca
   number_educ: 0
   education1:
-  
-- name: Queena Ng
-  photo: Queena.jpg
-  info: Undergraduate Student
-  email: queena.ng@mail.concordia.ca
-  number_educ: 0
-  education1: 
 
 - name: Alysh Orr
   photo: Alysh.jpg
