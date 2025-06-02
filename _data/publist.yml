@@ -78,6 +78,15 @@
     url: https://www.cell.com/trends/genetics/fulltext/S0168-9525(21)00186-4
     display: Trends in Genetics (2022)
   highlight: 
+
+- title: "Patient-Focused Drug Development: Moving toward better outcomes."
+  image: 
+  description: 
+  authors: Baca, E., Chatterjee, A., de Boer, D., Kuzmin, E., O’Day, E., Prichep, E. 
+  link:
+    url: https://www3.weforum.org/docs/WEF_Patient_focused_Drug_Development_Moving_towards_Better_Outcomes_2021.pdf
+    display: World Economic Forum (2021)
+  highlight:
   
 - title: "Inferring Copy Number from Triple Negative Breast Cancer Patient Derived Xenograft scRNAseq data using scCNAutils"
   image: pubpic_scCNA.png
