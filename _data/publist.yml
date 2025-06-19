@@ -4,7 +4,7 @@
   authors: Majidian, S., Hadziahmetovic, A., Langschied, F., Pascarelli, S., Prieto-Baños, S., Rojas-Vargas, J., Quest for Orthologs Consortium, Braun, E.L., Dessimoz, C., Durand, D., Fang, G., Gabaldon, T., Glover, N., Liberles, D.A., McWhite, C., Sonnhammer, E.L.L., Ouangraoua, A., Julca, I.   
   link:
     url: 
-    display: (in review)
+    display: (in revision)
   highlight: 
   
 - title: "PARPAL: PARalog Protein Redistribution using Abundance and Localization in Yeast Database" 
@@ -13,7 +13,7 @@
   authors: Greco, B.M., Zapata, G., Dandage, R., Papkov, M., Pereira, V., Lefebvre, F., Bourque, G., Parts,L., Kuzmin, E.*  
   link:
     url: https://doi.org/10.1101/2025.03.04.641431
-    display: bioRxiv (2025)
+    display: G3: Genes, Genomes, Genetics (in press)
   highlight: 
   
 - title: "Single-cell imaging of protein dynamics of paralogs reveals sources of gene retention" 
@@ -21,8 +21,8 @@
   description: 
   authors: Dandage, R., Papkov, M., Greco, B.M., Pereira, V., Fishman, D., Friesen, H., Wang, K., Styles, E., Kraus, O., Grys, B., Zapata, G., Lefebvre, F., Bourque, G., Boone, C., Andrews, B.J., Parts,L., Kuzmin, E.*  
   link:
-    url: https://doi.org/10.1101/2023.11.23.568466
-    display: iScience (in press)
+    url: https://www.cell.com/iscience/fulltext/S2589-0042(25)01032-6
+    display: iScience (2025)
   highlight: 1
 
 - title: "Benchmarking macaque brain gene expression for horizontal and vertical translation" 
