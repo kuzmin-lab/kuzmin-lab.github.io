@@ -13,6 +13,8 @@ permalink: /publications/
 
 For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=toi8Bz8AAAAJ&hl=en), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=elena+kuzmin) or [Research Gate](https://www.researchgate.net/profile/Elena_Kuzmin).
 
+For our lab code go to our [Kuzmin Lab Code github page](https://github.com/Kuzmin-Lab-code). 
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
