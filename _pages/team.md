@@ -14,6 +14,8 @@ Students are encouraged to apply through Concordia University's [Department of B
 
 Interested applicants should send Dr. Kuzmin their transcript, CV and a brief description of their research interests.
 
+Dr. Kuzmin also teaches BIOL479/630 course on functional genomics and computational biology as part of the Systems and Information Biology Program.
+
 
 Jump to [team](#team) or [alumni](#alumni).
 
