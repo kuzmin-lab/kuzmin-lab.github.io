@@ -64,6 +64,13 @@
   email: jad.mattar@mail.concordia.ca
   number_educ: 0
   education1: 
+
+- name: Zahra Tavakol
+  photo: person.jpg 
+  info: QLS Graduate Student
+  email: zahra.tavakolhamedani@mail.mcgill.ca
+  number_educ: 0
+  education1:
   
 - name: Eric Blouin
   photo: Eric.jpg
@@ -72,13 +79,6 @@
   number_educ: 0
   education1: 
 
-- name: Zahra Tavakol
-  photo: person.jpg 
-  info: QLS Rotation Student
-  email: zahra.tavakolhamedani@mail.mcgill.ca
-  number_educ: 0
-  education1:
-
 - name: Armita Dehghani
   photo: Armita.jpg
   info: Undergraduate Student
@@ -86,6 +86,13 @@
   number_educ: 0
   education1: 
 
+- name: Olivier Faure-Paris
+  photo: person.jpg
+  info: Undergraduate Student
+  email: olivier.faure-paris@mail.concordia.ca
+  number_educ: 0
+  education1:
+  
 - name: Vala Maleki
   photo: person.jpg
   info: Undergraduate Student
